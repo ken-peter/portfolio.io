@@ -9,13 +9,23 @@ body {
   width: 100%;
 }
 
+strong.cont {
+  padding-left: 200px;
+}
+
+#header {
+  height: 300px;
+  width: 350px;
+}
+
 img.landingpage {
   height: 300px;
   width: 300px;
 }
 
 img.landingpage:hover {
-  opacity: 0.5;
+  opacity: 0.8;
+  transform: scale(1.1, 1.1);
 }
 
 .other {
@@ -40,9 +50,12 @@ img.landingpage:hover {
 
 #slidingpics {
   width: 500px;
-  height: 400px;
+  height: 380px;
 }
 
 .carousel-inner img {
   margin: auto;
+}
+
+
 }
