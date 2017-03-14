@@ -21,15 +21,12 @@ strong.cont {
 img.landingpage {
   height: 300px;
   width: 300px;
+  border: 5px solid grey;
 }
 
 img.landingpage:hover {
   opacity: 0.8;
   transform: scale(1.1, 1.1);
-}
-
-.other {
-  display: none;
 }
 
 
@@ -55,7 +52,4 @@ img.landingpage:hover {
 
 .carousel-inner img {
   margin: auto;
-}
-
-
 }
