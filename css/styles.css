@@ -1,5 +1,9 @@
 /* IDEA: index styling starts here */
 
+body {
+  background-color: #97eb6a;
+}
+
 .jumbotron {
   height: 100%;
   width: 100%;
@@ -29,4 +33,16 @@ img.landingpage:hover {
 #imageofaboutme {
   width: 380px;
   height: 100px;
+}
+
+
+/* IDEA: contacts styling starts here */
+
+#slidingpics {
+  width: 500px;
+  height: 400px;
+}
+
+.carousel-inner img {
+  margin: auto;
 }
