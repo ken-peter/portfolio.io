@@ -1,0 +1,32 @@
+/* IDEA: index styling starts here */
+
+.jumbotron {
+  height: 100%;
+  width: 100%;
+}
+
+img.landingpage {
+  height: 300px;
+  width: 300px;
+}
+
+img.landingpage:hover {
+  opacity: 0.5;
+}
+
+.other {
+  display: none;
+}
+
+
+/* IDEA: about styling starts here */
+
+#interests, #education, #family {
+  width: 420px;
+  height: 1200px;
+}
+
+#imageofaboutme {
+  width: 380px;
+  height: 100px;
+}
