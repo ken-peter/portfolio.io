@@ -21,11 +21,11 @@ strong.cont {
 img.landingpage {
   height: 300px;
   width: 300px;
-  border: 5px solid grey;
+  border: 2px solid black;
 }
 
 img.landingpage:hover {
-  opacity: 0.8;
+  /*opacity: 0.8;*/
   transform: scale(1.1, 1.1);
 }
 
@@ -52,4 +52,19 @@ img.landingpage:hover {
 
 .carousel-inner img {
   margin: auto;
+}
+
+
+/* IDEA: images styling starts here */
+
+#memospics {
+  border: 1px solid black;
+  width: 600px;
+  height: 300px;
+  box-shadow: 0, 0, 0, 0;
+}
+
+img#memospics:hover {
+  /*opacity: 0.8;*/
+  transform: scale(1.1, 1.1);
 }
