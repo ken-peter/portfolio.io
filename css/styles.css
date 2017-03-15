@@ -33,7 +33,7 @@ img.landingpage:hover {
 /* IDEA: about styling starts here */
 
 #interests, #education, #family {
-  width: 420px;
+  width: 407px;
   height: 1200px;
 }
 
@@ -59,7 +59,7 @@ img.landingpage:hover {
 
 #memospics {
   border: 1px solid black;
-  width: 600px;
+  width: 580px;
   height: 300px;
   box-shadow: 0, 0, 0, 0;
 }
