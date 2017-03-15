@@ -68,3 +68,15 @@ img#memospics:hover {
   /*opacity: 0.8;*/
   transform: scale(1.1, 1.1);
 }
+
+#shortpics {
+  border: 2px solid black;
+  height: 280px;
+  width: 300px;
+}
+
+#longpic {
+  border: 2px solid black;
+  height: 600px;
+  width: 600px;
+}
